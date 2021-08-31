@@ -14,3 +14,5 @@ If you're feeling extra adventurous you could also have a go at replacing the de
 * Created a group of characters that try and follow each other: check out **PatrollingEachOther** group. This is done by using the same patrol script for the **Tadpole** but setting the patrol points to be that of the other **SadSausages**. Notice how I bumped the radius property of their NavMeshAgent components up to make them behave in a slightly more interesting/strange way.
 
 That's about all :)
+
+**Note: if you just came here for the scripts, you can find them in super_smashy_game/Assets/Scripts folder!**
